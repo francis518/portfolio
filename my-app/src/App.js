@@ -97,7 +97,7 @@ function App() {
       <section style={{ marginTop: '60px' }}>
   <h2>Data Matching Notebook</h2>
   <iframe
-    src="/notebook.html"
+    src="https://nbviewer.org/github/francis518/portfolio/blob/main/my-app/public/notebook.ipynb"
     width="100%"
     height="1200px" // increase height for full content
     style={{ border: 'none' }}
